@@ -1,4 +1,5 @@
 {
+    "id": "88fd8945-7cba-4b12-bab0-fc517feeb289",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -32,7 +33,7 @@
             "flexDirection": "column",
             "justifyContent": "center",
             "alignItems": "center",
-            "backgroundColor": "rgba(127, 96, 96, 1)"
+            "backgroundColor": "rgba(20, 105, 205, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -59,7 +60,7 @@
             "activeTabIcon": "https://img.icons8.com/material/48/000000/home--v5.png"
         },
         "isSimple": true,
-        "BackgroundColor": "rgba(127, 96, 96, 1)"
+        "BackgroundColor": "rgba(20, 105, 205, 1)"
     },
     "children": [
         {
@@ -109,7 +110,6 @@
             "name": "Image2"
         }
     ],
-    "id": "88fd8945-7cba-4b12-bab0-fc517feeb289",
     "thunkableVersion": 443,
     "name": "Home"
 }
